@@ -78,7 +78,8 @@
 
 
 
-# I have not refactored code, More time is needed to understand more than 2000 lines of 
+# I have not refactored code, I can replace little parts of code i did not do this and added comments for whole files, 
+# also some functions has many lines of code so more time is needed to understand more than 2000 lines of
 # code and then separate into chunks, but I have suggested by writing comments whats wrong in this code and what
 # we can do write better code, I think this would be ideally enough to get an idea about my skills.
 # I Always welcome new things suggestions and feedbacks and take these things as a process of learning.
